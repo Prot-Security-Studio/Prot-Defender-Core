@@ -1,4 +1,4 @@
-# This program is part of the Prot Denfender project
+# This program is part of the Prot Defender project
 # FileProtection.py is used to protect files.
 #
 # Prot Denfender is a free and partially open-source software released under GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 19, 2007.
